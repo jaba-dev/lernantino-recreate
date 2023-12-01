@@ -206,7 +206,7 @@ header nav ul li a:hover {
 
 footer {
   display: grid;
-  grid-template-columns: 18% 78%;
+  grid-template-columns: 1fr 4fr;
   gap: 4%;
   width: 92%;
   margin: 40px auto 0;
